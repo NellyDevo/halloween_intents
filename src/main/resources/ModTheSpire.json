@@ -4,6 +4,9 @@
   "author_list": [
     "thelethargicweirdo"
   ],
+  "optional_dependencies": [
+    "basemod"
+  ],
   "description": "${project.description}",
   "version": "${project.version}",
   "sts_version": "${SlayTheSpire.version}",
