@@ -2,15 +2,11 @@
   "modid": "${ModID}",
   "name": "${project.name}",
   "author_list": [
-    "you!"
+    "thelethargicweirdo"
   ],
   "description": "${project.description}",
   "version": "${project.version}",
   "sts_version": "${SlayTheSpire.version}",
-  "mts_version": "${ModTheSpire.version}",
-  "dependencies": [
-    "basemod",
-    "stslib"
-  ]
+  "mts_version": "${ModTheSpire.version}"
 }
 
